@@ -1,11 +1,9 @@
-# Código original de paint.py
+# Original de paint.py extraido de freegames
 
-# Se añadió un nuevo color
+# Se añadió un nuevo color el cual puede seleccionarse mediante una tecla del teclado.
 
-# Se añadió la figura del circulo
+# Se implementó la función "circulo" para permitir dibujar círculos a partir de puntos seleccionados por el usuario.
 
-# Se corrigió un typo en la linea 33
+# Se implementó la función "rectangulo" para permitir dibujar rectangulos a partir de puntos seleccionados por el usuario.
 
-# Se añadió la figura del rectangulo
-
-# Se añadió la figura del triangulo
+# Se implementó la función "triangulo" para permitir dibujar triangulos a partir de puntos seleccionados por el usuario.
